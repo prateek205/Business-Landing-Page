@@ -17,10 +17,10 @@
 - Vercel (Deployment)
 
 ## 📺 Live Demo 
-URL: https://business-landing-page-jade.vercel.app/
+URL: https://business-landing-page-mu-lemon.vercel.app/
 
 ## 🚀 GitHub 
-URL: 
+URL: https://github.com/prateek205/Business-Landing-Page
 
 ## 📁 Project Structure
 ```
